@@ -47,7 +47,6 @@
 }
 
 .text {
-  font-family: 'Noto Sans';
   font-weight: 400;
   font-size: 14px;
   line-height: 20px;
@@ -57,7 +56,6 @@
 }
 
 .second-text {
-  font-family: 'Noto Sans';
   font-weight: 600;
   font-size: 18px;
   line-height: 28px;
@@ -73,7 +71,6 @@
 }
 
 .third-text {
-  font-family: 'Noto Sans';
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
@@ -86,7 +83,6 @@
   align-items: center;
   gap: 6px;
   border-radius: 4px;
-  font-family: 'Noto Sans';
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;

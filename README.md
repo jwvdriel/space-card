@@ -1,6 +1,10 @@
 # cactus-card
 
-This template should help get you started developing with Vue 3 in Vite.
+shows a card with an image and some text
+
+just for practice purpose
+
+- image[]
 
 breakpoints:
 
