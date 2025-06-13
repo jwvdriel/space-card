@@ -6,7 +6,7 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/space-card/',
+  base: 'https://jwvdriel.github.io/space-card/',
   plugins: [vue(), vueDevTools()],
   resolve: {
     alias: {
