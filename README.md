@@ -4,7 +4,7 @@ shows a card with an image and some text
 
 just for practice purpose
 
-- image[]
+-[![alt text](image.png)]
 
 breakpoints:
 
